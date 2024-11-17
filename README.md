@@ -38,7 +38,7 @@ Verilog Code for Seven-Segment Display
 // seven_segment_display.v
 
 Verilog Code for Seven-Segment Display:
-`````
+```
 module sevenseg(seg,s);
 input [3:0]seg;
 output reg[6:0]s;
@@ -85,7 +85,7 @@ seg=4'd6;
 #100
 seg=4'd7;
 end
-
+```
 
 Conclusion![Screenshot (10)](https://github.com/user-attachments/assets/7aaf6aef-c16b-40ed-b073-42dcada391b2)
 
